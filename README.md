@@ -10,10 +10,6 @@
 
 
 ### Frontend:
-- Switch to Frontend folder: 
-```bash
-cd task
-```
 - Install required dependencies with: 
 ```bash
 npm install
